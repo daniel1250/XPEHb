@@ -1,0 +1,18 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: red
+}
+
+ul .red {
+    color: green;
+}
+
+.red, h3 {
+    color: red;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
